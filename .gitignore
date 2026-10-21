@@ -16,15 +16,12 @@ node_modules/
 jspm_packages/
 
 # Environment variables
-.env
-.env.test
 
 # Build output
 dist/
 build/
 
 # IDE files
-.vscode/
 .DS_Store
 
 # Spec & Agent temporary docs
@@ -37,3 +34,4 @@ scratch/
 # Stryker mutation testing
 .stryker-tmp/
 reports/mutation/
+config.bat
